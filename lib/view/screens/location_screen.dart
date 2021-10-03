@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:weatherapp/controller/weather_controller.dart';
 import 'package:weatherapp/models/weather.dart';
 import 'package:weatherapp/models/weather_brain.dart';
 import 'package:weatherapp/utilities/constants.dart';
+import 'package:weatherapp/view_model/weather_controller.dart';
 
 import 'city_screen.dart';
 
